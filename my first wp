@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+<head>
+<title>welcome page</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1 class="WELCOME">WELCOME TO MY WEB PAGE</h1>
+<h2 class="text">HEY....MY NAME IS SURBHI SHARMA....WELCOME TO MY FIRST WEB PAGE</h1>
+<a class="details" href="intoduction.html">CLICK HERE TO SEE MY DETAILS</a>
+</body>
+</html>
